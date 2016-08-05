@@ -1,0 +1,32 @@
+_repo: Old-Greek-Folk-Stories-Told-Anew_9313
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peabody, Josephine Preston
+    alias: Marks, Mrs. Lionel
+    birthdate: 1874
+    deathdate: 1922
+    gutenberg_agent_id: '3012'
+    url: http://www.gutenberg.org/2009/agents/3012
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Preston_Peabody
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+- GITenberg
+tableOfContents: The wood-folk -- The judgment of Midas -- Prometheus -- The deluge
+  -- Orpheus and Eurydice -- Icarus and Daedalus -- Phaethon -- Niobe -- Admetus and
+  the shepherd -- Alcestis -- Apollo's sister -- The Calydonian hunt -- Atalanta's
+  race -- Arachne -- Pyramus and Thisbe -- Pygmalion and Galatea -- Oedipus -- Cupid
+  and Psyche -- The trial of Psyche -- Stories of the Trojan War -- The house of Agamemnon
+  -- The adventures of Odysseus.
+title: Old Greek Folk Stories Told Anew
+url: http://www.gutenberg.org/ebooks/9313
